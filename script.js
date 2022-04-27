@@ -36,6 +36,7 @@
                     document.getElementById('out').innerHTML="Keep it Up!";
                     document.getElementById('out').style.color="green";
                 }
+             
                 else if(weight<26){
                     document.getElementById('out').innerHTML="You are underWeight.";
                     document.getElementById('out').style.color="Red";
