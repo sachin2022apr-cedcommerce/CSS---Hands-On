@@ -1,0 +1,54 @@
+.mainDiv{
+height:625px;
+width:100%;
+float:left;
+background:white;
+
+}
+.innerDiv{
+margin:15% 0 0 30%;
+height:50%;
+width:40%;
+float:left;
+background:#F5F5F5;
+
+}
+
+.formDiv{
+ margin:8% 0 0 8%;
+ height:50%;
+ width:84%;
+ 
+ float:left;
+}
+
+#lweight,#lage{
+margin-top:7%;
+float:left;
+font-size:120%;
+}
+
+#submitB{
+margin:4% 0 0 24%;
+height:22%;
+width:23%
+}
+
+#age ,#weight{
+
+margin:5% 18% 0 0;
+height:20%;
+float:right;
+font-size:90%;
+width:58%
+
+}
+
+.outputDiv{
+text-align:center;
+margin:1% 0 0 8%;
+ height:32%;
+ width:84%;
+float:left;
+     
+}
