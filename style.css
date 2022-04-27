@@ -1,0 +1,33 @@
+.mainDiv{
+height:625px;
+width:100%;
+float:left;
+
+}
+.innerDiv{
+padding:25% 0 0 35%;
+height:15%;
+width:35%;
+
+}
+.btnP{
+height:100%;
+width:25%;
+background:#DCDCDC;
+border: 0px;
+border-radius:25% 0 0 25%;
+}
+#inc{
+padding:10.25% 11% 11% 11%;
+border: 1px solid #DCDCDC;
+margin:0 -1.25% 0 -1.25%;
+
+}
+.btnM{
+height:100%;
+width:25%;
+background:#DCDCDC;
+border: 0px;
+border-radius:0 25% 25% 0;
+}
+
